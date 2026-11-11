@@ -13,9 +13,12 @@
 
 ## Project Overview
 
-Author: Denise Case
+Author: Kim Hummel
 
-Date: 2026 October
+Source: This is based off of a template supplied by Denise Case.
+A link to the original template can be found under Links heading and is called Hosted Documentation. 
+
+Date: 2026 November
 
 Fourth project in the Web Mining and Applied NLP course.
 
@@ -129,7 +132,7 @@ uv run python -m pytest
 
 ## Project Documentation
 
-The [hosted documentation site](https://denisecase.github.io/nlp-04-api-text-data/)
+The [hosted documentation site](https://kehummel.github.io/nlp-04-api-text-data/)
 is published using Zensical and GitHub Pages.
 
 The documentation site is used to present the project report,
@@ -143,8 +146,8 @@ to check project files and publish the docs.
 
 GitHub Actions include:
 
-- [CI: Python and Documentation Checks](https://github.com/denisecase/nlp-04-api-text-data/actions/workflows/ci-python-zensical.yml)
-- [CD: Documentation Deployment](https://github.com/denisecase/nlp-04-api-text-data/actions/workflows/deploy-zensical.yml)
+- [CI: Python and Documentation Checks](https://github.com/kehumme/nlp-04-api-text-data/actions/workflows/ci-python-zensical.yml)
+- [CD: Documentation Deployment](https://github.com/kehummel/nlp-04-api-text-data/actions/workflows/deploy-zensical.yml)
 
 ## Developer Reference
 
