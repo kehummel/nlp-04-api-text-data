@@ -16,7 +16,7 @@
 Author: Kim Hummel
 
 Source: This is based off of a template supplied by Denise Case.
-A link to the original template can be found under Links heading and is called Hosted Documentation. 
+A link to the original template can be found under Links heading and is called Hosted Documentation.
 
 Date: 2026 November
 
