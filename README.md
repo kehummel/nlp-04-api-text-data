@@ -232,6 +232,7 @@ testing, documentation, and code quality.
 
 ## Links
 
+- [Documentation for Phases 4 & 5](/docs/Phase4-5_README.md)
 - [Hosted Documentation](https://denisecase.github.io/nlp-04-api-text-data/)
 - [Professional Python Workflow Guide](https://denisecase.github.io/pro-analytics-02/)
 - [Citation](CITATION.cff)
