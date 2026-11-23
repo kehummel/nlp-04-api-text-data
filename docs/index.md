@@ -84,6 +84,7 @@ test, and maintain.
 - **Home** - this landing page
 - [**Project Instructions**](project-instructions.md)
 - [**Glossary**](glossary.md)
+- [Phases 4 & 5 Documentation](Phases4-5_README.md)
 
 ## Project Links
 
