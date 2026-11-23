@@ -38,7 +38,7 @@ import logging
 
 from datafun_toolkit.logger import get_logger, log_header, log_path
 
-from nlp.config import (
+from nlp.config_news import (
     API_URL,
     DATA_PATH,
     HTTP_REQUEST_HEADERS,
@@ -49,8 +49,8 @@ from nlp.config import (
     ROOT_PATH,
 )
 from nlp.stage01_extract import run_extract
-from nlp.stage02_validate import run_validate
-from nlp.stage03_transform import run_transform
+from nlp.stage02_validate_news import run_validate
+from nlp.stage03_transform_news import run_transform
 from nlp.stage04_load import run_load
 
 # ============================================================

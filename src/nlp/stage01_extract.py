@@ -76,7 +76,7 @@ def run_extract(
 
     # Use log.info() to log the source API URL (a string).
     # Use a formatted string (f-string) to include the variable in the log message.
-    LOG.info(f"SOURCE PATH = {source_api_url}")
+    LOG.info(f"SOURCE PATH = {source_api_url.split('?')[0]}")
 
     # Use the privacy-conscious
     # log_path function to log the sink path.
